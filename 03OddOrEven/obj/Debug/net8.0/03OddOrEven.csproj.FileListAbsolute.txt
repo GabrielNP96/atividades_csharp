@@ -1,0 +1,15 @@
+/workspaces/atividades_csharp/03OddOrEven/bin/Debug/net8.0/03OddOrEven
+/workspaces/atividades_csharp/03OddOrEven/bin/Debug/net8.0/03OddOrEven.deps.json
+/workspaces/atividades_csharp/03OddOrEven/bin/Debug/net8.0/03OddOrEven.runtimeconfig.json
+/workspaces/atividades_csharp/03OddOrEven/bin/Debug/net8.0/03OddOrEven.dll
+/workspaces/atividades_csharp/03OddOrEven/bin/Debug/net8.0/03OddOrEven.pdb
+/workspaces/atividades_csharp/03OddOrEven/obj/Debug/net8.0/03OddOrEven.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/atividades_csharp/03OddOrEven/obj/Debug/net8.0/03OddOrEven.AssemblyInfoInputs.cache
+/workspaces/atividades_csharp/03OddOrEven/obj/Debug/net8.0/03OddOrEven.AssemblyInfo.cs
+/workspaces/atividades_csharp/03OddOrEven/obj/Debug/net8.0/03OddOrEven.csproj.CoreCompileInputs.cache
+/workspaces/atividades_csharp/03OddOrEven/obj/Debug/net8.0/03OddOrEven.sourcelink.json
+/workspaces/atividades_csharp/03OddOrEven/obj/Debug/net8.0/03OddOrEven.dll
+/workspaces/atividades_csharp/03OddOrEven/obj/Debug/net8.0/refint/03OddOrEven.dll
+/workspaces/atividades_csharp/03OddOrEven/obj/Debug/net8.0/03OddOrEven.pdb
+/workspaces/atividades_csharp/03OddOrEven/obj/Debug/net8.0/03OddOrEven.genruntimeconfig.cache
+/workspaces/atividades_csharp/03OddOrEven/obj/Debug/net8.0/ref/03OddOrEven.dll
