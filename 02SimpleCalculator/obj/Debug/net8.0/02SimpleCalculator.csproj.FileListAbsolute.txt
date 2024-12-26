@@ -1,0 +1,15 @@
+/workspaces/atividades_csharp/02SimpleCalculator/bin/Debug/net8.0/02SimpleCalculator
+/workspaces/atividades_csharp/02SimpleCalculator/bin/Debug/net8.0/02SimpleCalculator.deps.json
+/workspaces/atividades_csharp/02SimpleCalculator/bin/Debug/net8.0/02SimpleCalculator.runtimeconfig.json
+/workspaces/atividades_csharp/02SimpleCalculator/bin/Debug/net8.0/02SimpleCalculator.dll
+/workspaces/atividades_csharp/02SimpleCalculator/bin/Debug/net8.0/02SimpleCalculator.pdb
+/workspaces/atividades_csharp/02SimpleCalculator/obj/Debug/net8.0/02SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/atividades_csharp/02SimpleCalculator/obj/Debug/net8.0/02SimpleCalculator.AssemblyInfoInputs.cache
+/workspaces/atividades_csharp/02SimpleCalculator/obj/Debug/net8.0/02SimpleCalculator.AssemblyInfo.cs
+/workspaces/atividades_csharp/02SimpleCalculator/obj/Debug/net8.0/02SimpleCalculator.csproj.CoreCompileInputs.cache
+/workspaces/atividades_csharp/02SimpleCalculator/obj/Debug/net8.0/02SimpleCalculator.sourcelink.json
+/workspaces/atividades_csharp/02SimpleCalculator/obj/Debug/net8.0/02SimpleCalculator.dll
+/workspaces/atividades_csharp/02SimpleCalculator/obj/Debug/net8.0/refint/02SimpleCalculator.dll
+/workspaces/atividades_csharp/02SimpleCalculator/obj/Debug/net8.0/02SimpleCalculator.pdb
+/workspaces/atividades_csharp/02SimpleCalculator/obj/Debug/net8.0/02SimpleCalculator.genruntimeconfig.cache
+/workspaces/atividades_csharp/02SimpleCalculator/obj/Debug/net8.0/ref/02SimpleCalculator.dll

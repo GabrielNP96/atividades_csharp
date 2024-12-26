@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01PrimeNumbers", "01PrimeNumbers\01PrimeNumbers.csproj", "{EC3207F9-8545-438F-8DB8-BDC74871F78F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02SimpleCalculator", "02SimpleCalculator\02SimpleCalculator.csproj", "{28EAB16A-A0B3-41E9-BE84-A8F1CC455386}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{EC3207F9-8545-438F-8DB8-BDC74871F78F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC3207F9-8545-438F-8DB8-BDC74871F78F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC3207F9-8545-438F-8DB8-BDC74871F78F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28EAB16A-A0B3-41E9-BE84-A8F1CC455386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28EAB16A-A0B3-41E9-BE84-A8F1CC455386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28EAB16A-A0B3-41E9-BE84-A8F1CC455386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28EAB16A-A0B3-41E9-BE84-A8F1CC455386}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
