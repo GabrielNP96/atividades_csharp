@@ -1,0 +1,15 @@
+/workspaces/atividades_csharp/05HigherOrLower/bin/Debug/net8.0/05HigherOrLower
+/workspaces/atividades_csharp/05HigherOrLower/bin/Debug/net8.0/05HigherOrLower.deps.json
+/workspaces/atividades_csharp/05HigherOrLower/bin/Debug/net8.0/05HigherOrLower.runtimeconfig.json
+/workspaces/atividades_csharp/05HigherOrLower/bin/Debug/net8.0/05HigherOrLower.dll
+/workspaces/atividades_csharp/05HigherOrLower/bin/Debug/net8.0/05HigherOrLower.pdb
+/workspaces/atividades_csharp/05HigherOrLower/obj/Debug/net8.0/05HigherOrLower.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/atividades_csharp/05HigherOrLower/obj/Debug/net8.0/05HigherOrLower.AssemblyInfoInputs.cache
+/workspaces/atividades_csharp/05HigherOrLower/obj/Debug/net8.0/05HigherOrLower.AssemblyInfo.cs
+/workspaces/atividades_csharp/05HigherOrLower/obj/Debug/net8.0/05HigherOrLower.csproj.CoreCompileInputs.cache
+/workspaces/atividades_csharp/05HigherOrLower/obj/Debug/net8.0/05HigherOrLower.sourcelink.json
+/workspaces/atividades_csharp/05HigherOrLower/obj/Debug/net8.0/05HigherOrLower.dll
+/workspaces/atividades_csharp/05HigherOrLower/obj/Debug/net8.0/refint/05HigherOrLower.dll
+/workspaces/atividades_csharp/05HigherOrLower/obj/Debug/net8.0/05HigherOrLower.pdb
+/workspaces/atividades_csharp/05HigherOrLower/obj/Debug/net8.0/05HigherOrLower.genruntimeconfig.cache
+/workspaces/atividades_csharp/05HigherOrLower/obj/Debug/net8.0/ref/05HigherOrLower.dll

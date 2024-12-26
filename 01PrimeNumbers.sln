@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03OddOrEven", "03OddOrEven\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04TriangleArea", "04TriangleArea\04TriangleArea.csproj", "{368799A9-8E88-4EE3-9F26-9FCB0C444446}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05HigherOrLower", "05HigherOrLower\05HigherOrLower.csproj", "{0172A9C5-9DFB-4859-89E0-F1DDFFFE2DEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{368799A9-8E88-4EE3-9F26-9FCB0C444446}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{368799A9-8E88-4EE3-9F26-9FCB0C444446}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{368799A9-8E88-4EE3-9F26-9FCB0C444446}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0172A9C5-9DFB-4859-89E0-F1DDFFFE2DEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0172A9C5-9DFB-4859-89E0-F1DDFFFE2DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0172A9C5-9DFB-4859-89E0-F1DDFFFE2DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0172A9C5-9DFB-4859-89E0-F1DDFFFE2DEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
