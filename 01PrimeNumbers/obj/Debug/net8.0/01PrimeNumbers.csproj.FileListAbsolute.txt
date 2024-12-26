@@ -1,0 +1,15 @@
+/workspaces/atividades_csharp/01PrimeNumbers/bin/Debug/net8.0/01PrimeNumbers
+/workspaces/atividades_csharp/01PrimeNumbers/bin/Debug/net8.0/01PrimeNumbers.deps.json
+/workspaces/atividades_csharp/01PrimeNumbers/bin/Debug/net8.0/01PrimeNumbers.runtimeconfig.json
+/workspaces/atividades_csharp/01PrimeNumbers/bin/Debug/net8.0/01PrimeNumbers.dll
+/workspaces/atividades_csharp/01PrimeNumbers/bin/Debug/net8.0/01PrimeNumbers.pdb
+/workspaces/atividades_csharp/01PrimeNumbers/obj/Debug/net8.0/01PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/atividades_csharp/01PrimeNumbers/obj/Debug/net8.0/01PrimeNumbers.AssemblyInfoInputs.cache
+/workspaces/atividades_csharp/01PrimeNumbers/obj/Debug/net8.0/01PrimeNumbers.AssemblyInfo.cs
+/workspaces/atividades_csharp/01PrimeNumbers/obj/Debug/net8.0/01PrimeNumbers.csproj.CoreCompileInputs.cache
+/workspaces/atividades_csharp/01PrimeNumbers/obj/Debug/net8.0/01PrimeNumbers.sourcelink.json
+/workspaces/atividades_csharp/01PrimeNumbers/obj/Debug/net8.0/01PrimeNumbers.dll
+/workspaces/atividades_csharp/01PrimeNumbers/obj/Debug/net8.0/refint/01PrimeNumbers.dll
+/workspaces/atividades_csharp/01PrimeNumbers/obj/Debug/net8.0/01PrimeNumbers.pdb
+/workspaces/atividades_csharp/01PrimeNumbers/obj/Debug/net8.0/01PrimeNumbers.genruntimeconfig.cache
+/workspaces/atividades_csharp/01PrimeNumbers/obj/Debug/net8.0/ref/01PrimeNumbers.dll
