@@ -13,6 +13,12 @@ double secondNumber = double.Parse(secondNumberStr);
 if(firstNumber > secondNumber)
 {
     Console.WriteLine($"{firstNumber} é maior que {secondNumber}");
-} else {
+} else if (secondNumber > firstNumber)
+{
     Console.WriteLine($"{secondNumber} é maior que {firstNumber}");
+} else if (firstNumber == secondNumber)
+{
+    Console.WriteLine($"{firstNumber} é igual a {secondNumber}");
+} else {
+    Console.WriteLine($"Ocorreu um erro....");
 }
