@@ -1,0 +1,15 @@
+/workspaces/atividades_csharp/04TriangleArea/bin/Debug/net8.0/04TriangleArea
+/workspaces/atividades_csharp/04TriangleArea/bin/Debug/net8.0/04TriangleArea.deps.json
+/workspaces/atividades_csharp/04TriangleArea/bin/Debug/net8.0/04TriangleArea.runtimeconfig.json
+/workspaces/atividades_csharp/04TriangleArea/bin/Debug/net8.0/04TriangleArea.dll
+/workspaces/atividades_csharp/04TriangleArea/bin/Debug/net8.0/04TriangleArea.pdb
+/workspaces/atividades_csharp/04TriangleArea/obj/Debug/net8.0/04TriangleArea.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/atividades_csharp/04TriangleArea/obj/Debug/net8.0/04TriangleArea.AssemblyInfoInputs.cache
+/workspaces/atividades_csharp/04TriangleArea/obj/Debug/net8.0/04TriangleArea.AssemblyInfo.cs
+/workspaces/atividades_csharp/04TriangleArea/obj/Debug/net8.0/04TriangleArea.csproj.CoreCompileInputs.cache
+/workspaces/atividades_csharp/04TriangleArea/obj/Debug/net8.0/04TriangleArea.sourcelink.json
+/workspaces/atividades_csharp/04TriangleArea/obj/Debug/net8.0/04TriangleArea.dll
+/workspaces/atividades_csharp/04TriangleArea/obj/Debug/net8.0/refint/04TriangleArea.dll
+/workspaces/atividades_csharp/04TriangleArea/obj/Debug/net8.0/04TriangleArea.pdb
+/workspaces/atividades_csharp/04TriangleArea/obj/Debug/net8.0/04TriangleArea.genruntimeconfig.cache
+/workspaces/atividades_csharp/04TriangleArea/obj/Debug/net8.0/ref/04TriangleArea.dll
