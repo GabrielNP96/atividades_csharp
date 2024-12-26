@@ -25,6 +25,12 @@ void Calculator(double number1, string mathOperator, double number2)
         Console.WriteLine($"{number1} * {number2} = {number1 * number2}");
     } else if (mathOperator == "/")
     {
+        if(number2 == 0)
+        {
+            Console.WriteLine("Não é possivel dividir por 0!");
+            return;
+        }
+
         Console.WriteLine($"{number1} / {number2} = {number1 / number2}");
     } else
     {
