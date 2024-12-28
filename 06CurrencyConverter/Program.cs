@@ -43,6 +43,3 @@ void Conversor(int valueInput,double valueToConvert)
 }
 
 Conversor(inputOption, valueToConvert);
-
-
-
