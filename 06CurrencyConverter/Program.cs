@@ -1,23 +1,24 @@
 ﻿// Converter uma quantidade de dinheiro de uma moeda para outra.
 Console.WriteLine("Bem vindo ao Conversor Real e dollar");
-bool i = true;
-while(i != false)
-{
-    //recebendo dados
-    Console.WriteLine(@"Escolha para qual moeda converter:
-                        1 - Dollar
-                        2 - Real");
-    string inputOptionStr = Console.ReadLine()!;
 
-    Console.Write("Digite a quantidade a converter: ");
-    string valueToConvertStr = Console.ReadLine()!;
+//recebendo dados
+Console.WriteLine(@"
+Escolha como quer Converter:
 
-    //convertendo dados
-    int inputOption = int.Parse(inputOptionStr);
-    double valueToConvert = double.Parse(valueToConvertStr);
+1 - Dólar para Real
+2 - Real para Dólar");
 
-    //realizando conversão
-}
+string inputOptionStr = Console.ReadLine()!;
+
+Console.Write("Digite a quantidade a converter: ");
+string valueToConvertStr = Console.ReadLine()!;
+
+//convertendo dados
+int inputOption = int.Parse(inputOptionStr);
+double valueToConvert = double.Parse(valueToConvertStr);
+
+//realizando conversão
+
 
 void Conversor(int valueInput,double valueToConvert)
 {
@@ -25,18 +26,23 @@ void Conversor(int valueInput,double valueToConvert)
     {
         Console.WriteLine("0 não pode ser convertido");
         return;
-    }else
+    }
+
+    switch(valueInput)
     {
-        switch (valueInput)
-        {
-            case 1:
-                Console.WriteLine($"{valueInput} em dolar equivale a {valueInput / 6,20} Reais");
-                break;
-            case 2:
-                Console.WriteLine($"{valueInput} em Reais equivale a {
-        }
+        case 1:
+            Console.WriteLine($"{valueToConvert} em dólar e igual a ${valueToConvert * 6.20} reais");
+            break;
+        case 2:
+            Console.WriteLine($"{valueToConvert} em Reais e igual a ${valueToConvert / 6.20} dólares");
+            break;
+        default:
+            Console.WriteLine("Opção inválida");
+            break;
     }
 }
+
+Conversor(inputOption, valueToConvert);
 
 
 

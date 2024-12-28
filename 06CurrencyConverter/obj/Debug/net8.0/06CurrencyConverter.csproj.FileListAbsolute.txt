@@ -1,0 +1,15 @@
+/workspaces/atividades_csharp/06CurrencyConverter/bin/Debug/net8.0/06CurrencyConverter
+/workspaces/atividades_csharp/06CurrencyConverter/bin/Debug/net8.0/06CurrencyConverter.deps.json
+/workspaces/atividades_csharp/06CurrencyConverter/bin/Debug/net8.0/06CurrencyConverter.runtimeconfig.json
+/workspaces/atividades_csharp/06CurrencyConverter/bin/Debug/net8.0/06CurrencyConverter.dll
+/workspaces/atividades_csharp/06CurrencyConverter/bin/Debug/net8.0/06CurrencyConverter.pdb
+/workspaces/atividades_csharp/06CurrencyConverter/obj/Debug/net8.0/06CurrencyConverter.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/atividades_csharp/06CurrencyConverter/obj/Debug/net8.0/06CurrencyConverter.AssemblyInfoInputs.cache
+/workspaces/atividades_csharp/06CurrencyConverter/obj/Debug/net8.0/06CurrencyConverter.AssemblyInfo.cs
+/workspaces/atividades_csharp/06CurrencyConverter/obj/Debug/net8.0/06CurrencyConverter.csproj.CoreCompileInputs.cache
+/workspaces/atividades_csharp/06CurrencyConverter/obj/Debug/net8.0/06CurrencyConverter.sourcelink.json
+/workspaces/atividades_csharp/06CurrencyConverter/obj/Debug/net8.0/06CurrencyConverter.dll
+/workspaces/atividades_csharp/06CurrencyConverter/obj/Debug/net8.0/refint/06CurrencyConverter.dll
+/workspaces/atividades_csharp/06CurrencyConverter/obj/Debug/net8.0/06CurrencyConverter.pdb
+/workspaces/atividades_csharp/06CurrencyConverter/obj/Debug/net8.0/06CurrencyConverter.genruntimeconfig.cache
+/workspaces/atividades_csharp/06CurrencyConverter/obj/Debug/net8.0/ref/06CurrencyConverter.dll
